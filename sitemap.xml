@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hopeCJ.github.io/2017/03/10/%E6%B5%8B%E8%AF%95/</loc>
+    
+    <lastmod>2017-03-10T06:05:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hopeCJ.github.io/2017/03/09/hello-world/</loc>
     
     <lastmod>2017-03-10T05:42:43.000Z</lastmod>
@@ -9,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://hopeCJ.github.io/categories/index.html</loc>
+    <loc>https://hopeCJ.github.io/about/index.html</loc>
     
     <lastmod>2017-03-10T05:42:43.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://hopeCJ.github.io/about/index.html</loc>
+    <loc>https://hopeCJ.github.io/categories/index.html</loc>
     
     <lastmod>2017-03-10T05:42:43.000Z</lastmod>
     
