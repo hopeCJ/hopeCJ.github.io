@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>憧憬个人博客</title>
+  <subtitle>blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hopeCJ.github.io/"/>
+  <updated>2017-03-10T05:42:43.000Z</updated>
+  <id>https://hopeCJ.github.io/</id>
+  
+  <author>
+    <name>mewtwo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hopeCJ.github.io/2017/03/09/hello-world/"/>
+    <id>https://hopeCJ.github.io/2017/03/09/hello-world/</id>
+    <published>2017-03-09T12:38:00.000Z</published>
+    <updated>2017-03-10T05:42:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我的第一篇博文"><a href="#我的第一篇博文" class="headerlink" title="我的第一篇博文"></a>我的第一篇博文</h1><h2 id="用markdown写文章简直是神器"><a href="#用markdown写文章简直是神器" class="headerlink" title="用markdown写文章简直是神器"></a>用markdown写文章简直是神器</h2><blockquote>
+<p>这段话来自孔子</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;我的第一篇博文&quot;&gt;&lt;a href=&quot;#我的第一篇博文&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇博文&quot;&gt;&lt;/a&gt;我的第一篇博文&lt;/h1&gt;&lt;h2 id=&quot;用markdown写文章简直是神器&quot;&gt;&lt;a href=&quot;#用markdown写文章简直是神
+    
+    </summary>
+    
+      <category term="散文" scheme="https://hopeCJ.github.io/categories/%E6%95%A3%E6%96%87/"/>
+    
+    
+      <category term="first" scheme="https://hopeCJ.github.io/tags/first/"/>
+    
+  </entry>
+  
+</feed>
